@@ -13,6 +13,7 @@ description = "Rust implementation of mlx-lm"
 [dependencies]
 # Local dependencies
 mlx-rs.workspace = true
+mlx-macros.workspace = true
 mlx-lm-utils.workspace = true
 
 # External dependencies
